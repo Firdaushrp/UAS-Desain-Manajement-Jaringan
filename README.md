@@ -1,3 +1,6 @@
-Kelompok 9
-Firdaus Hudri Harahap 23081010125
-Haikal Rafi Firdaus 23081010
+# UAS-Desain-Manajement-Jaringan
+
+<ul>
+  <li>23081010125 - Firdaus Hudri Harahap</li>
+  <li>23081010116 - Haikal Rafi Firdaus</li>
+</ul>
